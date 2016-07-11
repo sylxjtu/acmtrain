@@ -95,4 +95,4 @@ push时，比中位数大插入high堆，否则插入low堆
 
 ### L3 - 006
 
-![http://sxb.moe/wp-content/uploads/2016/06/%E6%88%91%E5%A5%BD%E8%8F%9C%E5%95%8A.jpg](我好菜啊)
+![](http://sxb.moe/wp-content/uploads/2016/06/%E6%88%91%E5%A5%BD%E8%8F%9C%E5%95%8A.jpg)
